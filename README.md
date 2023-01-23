@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dedgegegarza
-- 👀 I’m interested in genetics and genomics
-- 🌱 I’m currently learning global prediction
-- 💞️ I’m looking to collaborate on global genomic prediction
+- 👀 I’m interested in genetics, genomics, and biotechnology, specifically to apply principles of these fields of study to fruit breeding operations.
+- 🌱 I’m currently learning global prediction. And I am building tools that breeders can use to increase the efficiency of marker-assisted breeding operations.
+- 💞️ I’m looking to collaborate on global genomic prediction.
 - 📫 How to reach me d.edgegarza@uq.edu.au
 
 <!---
